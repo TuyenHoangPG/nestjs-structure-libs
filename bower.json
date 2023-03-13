@@ -1,0 +1,14 @@
+{
+  "name": "bower_components",
+  "version": "1.0.1",
+  "authors": [
+    "Tuyen Luis"
+  ],
+  "description": "Include some libraries for NestJS structure",
+  "main": "/",
+  "keywords": [
+    "nestjs-structure-libs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TuyenHoangPG/nestjs-structure-libs"
+}
